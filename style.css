@@ -1,0 +1,74 @@
+body
+	{
+		background-color: MistyRose;
+	}
+p 
+	{
+		font-family: "Nerko One", cursive;
+		font-size: 30px;
+		color: BlueViolet;
+		background-color: LightPink;
+		border: 3px ;
+		padding: 15px;
+		border-radius: 90px;
+		border-right-width: 10px;
+
+	}
+
+h
+	{
+		font-family: "Homemade Apple";
+		font-size: 70px;
+		color: Purple;
+		
+	}
+h1 
+	{
+		font-family: "Homemade Apple";
+		font-size: 45px;
+		color: PaleVioletRed;
+		background-color: Thistle;
+		border: 3px dotted;
+		padding: 15px;
+		border-radius: 200px;
+		border-spacing: 15px
+
+	}
+h2
+	{
+		font-family: "Nerko One";
+		font-size: 40px
+
+	}
+
+h3
+	{
+		font-family: "Ruge Boogie";
+		font-size: 70px;
+		color: PaleVioletRed;
+		background-color: Thistle;
+		border: 5px dotted;
+		border-color: PaleVioletRed;
+		padding: 15px;
+		border-radius: 50px;
+
+	}
+
+h4
+	{
+		font-family: "Cute Font";
+		font-size: 30px;
+		color: MediumVioletRed;
+		background-color: Thistle;
+		border: 3px solid;
+		border-color: PaleVioletRed;
+
+	}
+h5
+	{
+		font-family: "Miniver";
+		font-size: 25px;
+		color: Purple;
+		background-color: transparent;
+
+	}
